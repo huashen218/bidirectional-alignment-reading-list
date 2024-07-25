@@ -1,4 +1,4 @@
-# Bidirectional Human-AI Alignment -- Reading List
+# Bidirectional Human-AI Alignment - Reading List
 
 
 This repository lists papers on **bidirectional human-AI alignment** research, primarily covering papers in Human-Computer Interaction (HCI), Natural Language Processing (NLP) and Machine Learng (ML) fields.
