@@ -15,11 +15,9 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 
 - [1. Human Values and Specifications](#1-human-values)
-
   - [1.1 Human Value Category](#11-human-value-category)
     - [1.1.1 Source of Values](#111-source)
     - [1.1.2 Value Types](#112-types)
-
   - [1.2 Interaction Techniques to Specify AI Values](#12-value-pecification)
     - [1.2.1 Explicit Human Feedback](#121-explicit-feedback)
     - [1.2.2 Implicit Human Feedback](#122-implicit-feedback)
@@ -27,7 +25,6 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
   
 - [2. Integrating Human Specifications into AI](#2-integrate-ai)
-
   - [2.1 Develop AI with General Values](#21-human-value-category)
     - [2.1.1 Instruction Data](#211-instruction-data)
     - [2.1.2 Model Learning](#212-model-learning)
@@ -41,8 +38,7 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
     - [2.3.2 Automatic Evaluation](#232-auto-eval)
   - [2.4 Ecosystem](#24-ecosystem)
     - [2.4.1 Platforms](#241-platforms)
-
-
+    
 
 - [3.Human Cognitive Adjustment to AI](#3-cognitive-adjustment)
   - [3.1 Perceiving and Understanding of AI](#31-perceive)
