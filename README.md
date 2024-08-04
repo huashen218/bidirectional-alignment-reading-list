@@ -14,57 +14,63 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 
 
-- [1. Human Values and Specifications](#1-human-values)
-  - [1.1 Human Value Category](#11-human-value-category)
-    - [1.1.1 Source of Values](#111-source)
-    - [1.1.2 Value Types](#112-types)
-  - [1.2 Interaction Techniques to Specify AI Values](#12-value-pecification)
-    - [1.2.1 Explicit Human Feedback](#121-explicit-feedback)
-    - [1.2.2 Implicit Human Feedback](#122-implicit-feedback)
-    - [1.2.3 Simulated Human Value Feedback](#123-simulated-feedback)
+
+
+- [1. Alignment Basics](#1-basics)
+  - [1.1 Overview Papers](#11-overview)
+  - [1.2 Alignment Goals and Human Value Theories](#12-goals-values)
+
+- [2. Human Values and Specifications](#1-human-values)
+  - [2.1 Human Value Category](#11-human-value-category)
+    - [2.1.1 Source of Values](#111-source)
+    - [2.1.2 Value Types](#112-types)
+  - [2.2 Interaction Techniques to Specify AI Values](#12-value-pecification)
+    - [2.2.1 Explicit Human Feedback](#121-explicit-feedback)
+    - [2.2.2 Implicit Human Feedback](#122-implicit-feedback)
+    - [2.2.3 Simulated Human Value Feedback](#123-simulated-feedback)
 
   
-- [2. Integrating Human Specifications into AI](#2-integrate-ai)
-  - [2.1 Develop AI with General Values](#21-human-value-category)
-    - [2.1.1 Instruction Data](#211-instruction-data)
-    - [2.1.2 Model Learning](#212-model-learning)
-    - [2.1.3 Inference Stage](#213-inference-stage)
-  - [2.2 Customizing AI for Individuals and Groups](#22-customize-ai)
-    - [2.2.1 Customized Data](#221-customize-data)
-    - [2.2.2 Adapt Model by Learning](#222-adapt-model-by-learning)
-    - [2.2.3 Interactive Alignment](#223-interactive-alignment)
-  - [2.3 Evaluating AI Systems](#23-evaluate-ai)
-    - [2.3.1 Human-In-The-Loop-Evaluation](#231-hitl-eval)
-    - [2.3.2 Automatic Evaluation](#232-auto-eval)
-  - [2.4 Ecosystem](#24-ecosystem)
-    - [2.4.1 Platforms](#241-platforms)
+- [3. Integrating Human Specifications into AI](#2-integrate-ai)
+  - [3.1 Develop AI with General Values](#21-human-value-category)
+    - [3.1.1 Instruction Data](#211-instruction-data)
+    - [3.1.2 Model Learning](#212-model-learning)
+    - [3.1.3 Inference Stage](#213-inference-stage)
+  - [3.2 Customizing AI for Individuals and Groups](#22-customize-ai)
+    - [3.2.1 Customized Data](#221-customize-data)
+    - [3.2.2 Adapt Model by Learning](#222-adapt-model-by-learning)
+    - [3.2.3 Interactive Alignment](#223-interactive-alignment)
+  - [3.3 Evaluating AI Systems](#23-evaluate-ai)
+    - [3.3.1 Human-In-The-Loop-Evaluation](#231-hitl-eval)
+    - [3.3.2 Automatic Evaluation](#232-auto-eval)
+  - [3.4 Ecosystem](#24-ecosystem)
+    - [3.4.1 Platforms](#241-platforms)
     
 
-- [3.Human Cognitive Adjustment to AI](#3-cognitive-adjustment)
-  - [3.1 Perceiving and Understanding of AI](#31-perceive)
-    - [3.1.1 Education and Training Human](#311-education-training)
-    - [3.1.2 AI Sensemaking and Explanations](#312-ai-sensemaking)
-  - [3.2 Critical Thinking about AI](#32-critical-thinking)
-    - [3.2.1 Trust and Reliance on AI Decisions](#321-trust-reliance)
-    - [3.2.2 Ethical Concerns and AI Auditing](#322-ethical-audit)
-    - [3.2.3 Calibrate Cognition to Align AI](#323-calibrate-ai)
+- [4.Human Cognitive Adjustment to AI](#3-cognitive-adjustment)
+  - [4.1 Perceiving and Understanding of AI](#31-perceive)
+    - [4.1.1 Education and Training Human](#311-education-training)
+    - [4.1.2 AI Sensemaking and Explanations](#312-ai-sensemaking)
+  - [4.2 Critical Thinking about AI](#32-critical-thinking)
+    - [4.2.1 Trust and Reliance on AI Decisions](#321-trust-reliance)
+    - [4.2.2 Ethical Concerns and AI Auditing](#322-ethical-audit)
+    - [4.2.3 Calibrate Cognition to Align AI](#323-calibrate-ai)
 
 
-- [4. Human Adaptive Behavior to AI](#4-behavioral-adapation)
-  - [4.1 Human Collaborating with Diverse AI Roles](#41-human-ai-collaboration)
-    - [4.1.1 Assistants](#411-assistants)
-    - [4.1.2 Partners](#412-partners)
-    - [4.1.3 Tutors](#413-tutors)
-  - [4.2 AI Impacts on Human and Society](#42-ai-impacts)
-    - [4.2.1 Impact on Individual Behavior](#421-impact-on-individual)
-    - [4.2.2 Societal Concerns and AI Impacts](#422-social-impacts)
-    - [4.2.3 Reaction to AI Advancements](#423-reaction-to-ai)
-  - [4.3 Evaluation in Human Studies](#43-evaluation)
-    - [4.3.1 Evaluate Human-AI Collaboration](#431-evaluate-collaborate)
-    - [4.3.2 Evaluate Societal Impact](#432-eval-social-impacts)
+- [5. Human Adaptive Behavior to AI](#4-behavioral-adapation)
+  - [5.1 Human Collaborating with Diverse AI Roles](#41-human-ai-collaboration)
+    - [5.1.1 Assistants](#411-assistants)
+    - [5.1.2 Partners](#412-partners)
+    - [5.1.3 Tutors](#413-tutors)
+  - [5.2 AI Impacts on Human and Society](#42-ai-impacts)
+    - [5.2.1 Impact on Individual Behavior](#421-impact-on-individual)
+    - [5.2.2 Societal Concerns and AI Impacts](#422-social-impacts)
+    - [5.2.3 Reaction to AI Advancements](#423-reaction-to-ai)
+  - [5.3 Evaluation in Human Studies](#43-evaluation)
+    - [5.3.1 Evaluate Human-AI Collaboration](#431-evaluate-collaborate)
+    - [5.3.2 Evaluate Societal Impact](#432-eval-social-impacts)
 
 
-- [5. Others - To Add More...](#5-more)
+- [6. Others - To Add More...](#5-more)
 
 
 
@@ -104,11 +110,11 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 
 
-## 1. Human Values and Specifications
+## 2. Human Values and Specifications
 
-### 1.1 Human Value Category
+### 2.1 Human Value Category
 
-#### 1.1.1 Source of Values
+#### 2.1.1 Source of Values
 
 **Individuals:**
 
@@ -152,7 +158,7 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 
 
-#### 1.1.2 Value Types
+#### 2.1.2 Value Types
 
 
 **Self-Enhancement:**
@@ -191,9 +197,9 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 2. (2022 ACL) **Are shortest rationales the best explanations for human understanding?.** *Shen, Hua, Tongshuang Wu, Wenbo Guo, and Ting-Hao'Kenneth Huang.* [[pdf]](https://arxiv.org/pdf/2203.08788)
 
 
-### 1.2 Interaction Techniques to Specify AI Values
+### 2.2 Interaction Techniques to Specify AI Values
 
-#### 1.2.1 Explicit Human Feedback
+#### 2.2.1 Explicit Human Feedback
 
 1. (2022 NeurIPS) **Training language models to follow instructions with human feedback.** *Ouyang, Long, Jeffrey Wu, Xu Jiang, Diogo Almeida, Carroll Wainwright, Pamela Mishkin, Chong Zhang et al.*  [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)
 
@@ -202,7 +208,7 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 3. (2023 IUI) **Constitutionmaker: Interactively critiquing large language models by converting feedback into principles.** *Petridis, Savvas, Benjamin D. Wedin, James Wexler, Mahima Pushkarna, Aaron Donsbach, Nitesh Goyal, Carrie J. Cai, and Michael Terry.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3640543.3645144)
 
 
-#### 1.2.2 Implicit Human Feedback
+#### 2.2.2 Implicit Human Feedback
 
 1. (2023 EMNLP) **Towards a holistic landscape of situated theory of mind in large language models.** *Ma, Ziqiao, Jacob Sansom, Run Peng, and Joyce Chai.*  [[pdf]](https://aclanthology.org/2023.findings-emnlp.72.pdf)
 
@@ -211,18 +217,18 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 3. (2021 EMNLP) **A scalable framework for learning from implicit user feedback to improve natural language understanding in large-scale conversational ai systems.** *Park, Sunghyun, Han Li, Ameen Patel, Sidharth Mudgal, Sungjin Lee, Young-Bum Kim, Spyros Matsoukas, and Ruhi Sarikaya.* [[pdf]](https://aclanthology.org/2021.emnlp-main.489.pdf)
 
 
-#### 1.2.3 Simulated Human Value Feedback
+#### 2.2.3 Simulated Human Value Feedback
 
 1. (2024 ICLR) **Identifying the risks of lm agents with an lm-emulated sandbox.** *Ruan, Yangjun, Honghua Dong, Andrew Wang, Silviu Pitis, Yongchao Zhou, Jimmy Ba, Yann Dubois, Chris J. Maddison, and Tatsunori Hashimoto.* [[pdf]](https://openreview.net/pdf?id=GEcwtMk1uA)
 
 2. (2023 EMNLP) **Aligning large language models through synthetic feedback.** *Kim, Sungdong, Sanghwan Bae, Jamin Shin, Soyoung Kang, Donghyun Kwak, Kang Min Yoo, and Minjoon Seo.* [[pdf]](https://aclanthology.org/2023.emnlp-main.844.pdf)
 
 
-## 2. Integrating Human Specifications into AI
+## 3. Integrating Human Specifications into AI
 
-### 2.1 Develop AI with General Values
+### 3.1 Develop AI with General Values
 
-#### 2.1.1 Instruction Data
+#### 3.1.1 Instruction Data
 
 1. Shen, Hua, Vicky Zayats, Johann C. Rocholl, Daniel D. Walker, and Dirk Padfield. "Multiturncleanup: A benchmark for multi-turn spoken conversational transcript cleanup." arXiv preprint arXiv:2305.12029 (2023). [[pdf]](https://arxiv.org/pdf/2305.12029)
 
@@ -231,14 +237,14 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 3. Yuan, Hongyi, Zheng Yuan, Chuanqi Tan, Wei Wang, Songfang Huang, and Fei Huang. "RRHF: Rank responses to align language models with human feedback." Advances in Neural Information Processing Systems 36 (2024). [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/23e6f78bdec844a9f7b6c957de2aae91-Paper-Conference.pdf)
 
-#### 2.1.2 Model Learning
+#### 3.1.2 Model Learning
 
 1. Rafailov, Rafael, Archit Sharma, Eric Mitchell, Christopher D. Manning, Stefano Ermon, and Chelsea Finn. "Direct preference optimization: Your language model is secretly a reward model." Advances in Neural Information Processing Systems 36 (2024). [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/a85b405ed65c6477a4fe8302b5e06ce7-Paper-Conference.pdf)
 
 
 2. (2023 TMLR) Dong, Hanze, Wei Xiong, Deepanshu Goyal, Yihan Zhang, Winnie Chow, Rui Pan, Shizhe Diao, Jipeng Zhang, Kashun Shum, and Tong Zhang. "Raft: Reward ranked finetuning for generative foundation model alignment." arXiv preprint arXiv:2304.06767 (2023). [[pdf]](https://arxiv.org/pdf/2304.06767)
 
-#### 2.1.3 Inference Stage
+#### 3.1.3 Inference Stage
 
 1. (2023 EMNLP) Wang, Zhilin, Yu Ying Chiu, and Yu Cheung Chiu. "Humanoid agents: Platform for simulating human-like generative agents." arXiv preprint arXiv:2310.05418 (2023). [[pdf]](https://arxiv.org/pdf/2310.05418)
 
@@ -248,13 +254,13 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 3. (2024 ICLR) **Quality-diversity through ai feedback**. *Bradley, Herbie, Andrew Dai, Hannah Teufel, Jenny Zhang, Koen Oostermeijer, Marco Bellagente, Jeff Clune, Kenneth Stanley, Grégory Schott, and Joel Lehman.* [[pdf]](https://openreview.net/pdf?id=owokKCrGYr)
 
 
-### 2.2 Customizing AI for Individuals and Groups
+### 3.2 Customizing AI for Individuals and Groups
 
-#### 2.2.1 Customized Data
+#### 3.2.1 Customized Data
 
 1. (2023 ACL) Felkner, Virginia K., Ho-Chun Herbert Chang, Eugene Jang, and Jonathan May. "Winoqueer: A community-in-the-loop benchmark for anti-lgbtq+ bias in large language models." arXiv preprint arXiv:2306.15087 (2023). [[pdf]](https://arxiv.org/pdf/2306.15087)
 
-#### 2.2.2 Adapt Model by Learning
+#### 3.2.2 Adapt Model by Learning
 
 1. (2024 ICLR) Zhao, Siyan, John Dang, and Aditya Grover. "Group preference optimization: Few-shot alignment of large language models." arXiv preprint arXiv:2310.11523 (2023). [[pdf]](https://openreview.net/forum?id=DpFeMH4l8Q)
 
@@ -270,7 +276,7 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 
 
-#### 2.2.3 Interactive Alignment
+#### 3.2.3 Interactive Alignment
 
 1. (2023 ICLR) Maghakian, Jessica, Paul Mineiro, Kishan Panaganti, Mark Rucker, Akanksha Saran, and Cheng Tan. "Personalized reward learning with interaction-grounded learning (IGL)." arXiv preprint arXiv:2211.15823 (2022). [[pdf]](https://arxiv.org/pdf/2211.15823)
 
@@ -279,9 +285,9 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 3. (2022 ACL) Welch, Charles, Chenxi Gu, Jonathan K. Kummerfeld, Verónica Pérez-Rosas, and Rada Mihalcea. "Leveraging similar users for personalized language modeling with limited data." In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 1742-1752. 2022. [[pdf]](https://aclanthology.org/2022.acl-long.122.pdf)
 
 
-### 2.3 Evaluating AI Systems
+### 3.3 Evaluating AI Systems
 
-#### 2.3.1 Human-In-The-Loop-Evaluation
+#### 3.3.1 Human-In-The-Loop-Evaluation
 
 1. (2022 NAACL) Liu, Ruibo, Ge Zhang, Xinyu Feng, and Soroush Vosoughi. "Aligning generative language models with human values." In Findings of the Association for Computational Linguistics: NAACL 2022, pp. 241-252. 2022. [[pdf]](https://aclanthology.org/2022.findings-naacl.18.pdf)
 
@@ -289,7 +295,7 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 2. (2023 ACL) Kwon, Bum Chul, and Nandana Mihindukulasooriya. "Finspector: A human-centered visual inspection tool for exploring and comparing biases among foundation models." arXiv preprint arXiv:2305.16937 (2023). [[pdf]](https://aclanthology.org/2023.acl-demo.4.pdf)
 
 
-#### 2.3.2 Automatic Evaluation
+#### 3.3.2 Automatic Evaluation
 
 1. (2024 NeurIPS) Sun, Zhiqing, Yikang Shen, Qinhong Zhou, Hongxin Zhang, Zhenfang Chen, David Cox, Yiming Yang, and Chuang Gan. "Principle-driven self-alignment of language models from scratch with minimal human supervision." Advances in Neural Information Processing Systems 36 (2024). [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/0764db1151b936aca59249e2c1386101-Paper-Conference.pdf)
 
@@ -298,9 +304,9 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 
 
-### 2.4 Ecosystem
+### 3.4 Ecosystem
 
-#### 2.4.1 Platforms
+#### 3.4.1 Platforms
 
 1. (2023 NeurIPS) *Dubois, Yann, Chen Xuechen Li, Rohan Taori, Tianyi Zhang, Ishaan Gulrajani, Jimmy Ba, Carlos Guestrin, Percy S. Liang, and Tatsunori B. Hashimoto.* **Alpacafarm: A simulation framework for methods that learn from human feedback.** [[pdf]](https://openreview.net/pdf?id=4hturzLcKX)
 
@@ -316,12 +322,12 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 
 
-## 3.Human Cognitive Adjustment to AI
+## 4.Human Cognitive Adjustment to AI
 
-### 3.1 Perceiving and Understanding of AI
+### 4.1 Perceiving and Understanding of AI
 
 
-#### 3.1.1 Education and Training Human
+#### 4.1.1 Education and Training Human
 
 1. (2022 CHI) Long, Duri, and Brian Magerko. "What is AI literacy? Competencies and design considerations." In Proceedings of the 2020 CHI conference on human factors in computing systems, pp. 1-16. 2020. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3313831.3376727?casa_token=MWvd1NHw0HEAAAAA:xtkNw2v4XHT_wofSw4W6mvuGoN8wVH7536AkVVNLwwqTVB7ANk4J7UM-BA-B4JUCT8pT2qywJXpR)
 
@@ -329,7 +335,7 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 2. (2020 CSCW) McDonald, Nora, and Shimei Pan. "Intersectional AI: A study of how information science students think about ethics and their impact." Proceedings of the ACM on Human-Computer Interaction 4, no. CSCW2 (2020): 1-19. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3415218?casa_token=kPImRsLtrCYAAAAA:YW_O_1MPsXHeJc0Tmi7TA8iu3dQaGaS_n86DAJc_0jSHBTWI6AbDqGwgNLeQ_VXbpCIz19RmZmMu)
 
 
-#### 3.1.2 AI Sensemaking and Explanations
+#### 4.1.2 AI Sensemaking and Explanations
 
 1. (2023 CHI) Petridis, Savvas, Nicholas Diakopoulos, Kevin Crowston, Mark Hansen, Keren Henderson, Stan Jastrzebski, Jeffrey V. Nickerson, and Lydia B. Chilton. "Anglekindling: Supporting journalistic angle ideation with large language models." In Proceedings of the 2023 CHI conference on human factors in computing systems, pp. 1-16. 2023. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3544548.3580907?casa_token=G5q-owxcuakAAAAA:awS7rEcVc6pJ9GofC6azdkXEc5aI6MNcWdTdlcwKdoOGsI5aZzJAepEMT6FIS2jFERiconlMWe3N)
 
@@ -339,9 +345,9 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 
 
-### 3.2 Critical Thinking about AI
+### 4.2 Critical Thinking about AI
 
-#### 3.2.1 Trust and Reliance on AI Decisions
+#### 4.2.1 Trust and Reliance on AI Decisions
 
 1. (2019 CHI) Yin, Ming, Jennifer Wortman Vaughan, and Hanna Wallach. "Understanding the effect of accuracy on trust in machine learning models." In Proceedings of the 2019 chi conference on human factors in computing systems, pp. 1-12. 2019. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3290605.3300509?casa_token=OTKgPNLNKa0AAAAA:2d3J1UX48ji_-K-F5Maz-PHj_Ap5Yb2bLF6BBxJEgZdA6Cr1eAARJfRZd3eBO924QbLVSayW0QBQ)
 
@@ -352,7 +358,7 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 
 
-#### 3.2.2 Ethical Concerns and AI Auditing
+#### 4.2.2 Ethical Concerns and AI Auditing
 
 1. (2020 CHI) Madaio, Michael A., Luke Stark, Jennifer Wortman Vaughan, and Hanna Wallach. "Co-designing checklists to understand organizational challenges and opportunities around fairness in AI." In Proceedings of the 2020 CHI conference on human factors in computing systems, pp. 1-14. 2020. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3313831.3376445)
 
@@ -360,18 +366,18 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 
 
-#### 3.2.3 Calibrate Cognition to Align AI
+#### 4.2.3 Calibrate Cognition to Align AI
 
 1. (2019 CHI) Kocielnik, Rafal, Saleema Amershi, and Paul N. Bennett. "Will you accept an imperfect ai? exploring designs for adjusting end-user expectations of ai systems." In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems, pp. 1-14. 2019. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3290605.3300641?casa_token=OLB1htBBaNkAAAAA:UniqTgSTY3ruCB_AFKMRye9MZcsILJx6f3w0qAfRA8Z_uVxHzvmzfxAoyNwukN1kwhBSw7xWp7PL)
 
 2. (2023 CHI) Wischnewski, Magdalena, Nicole Krämer, and Emmanuel Müller. "Measuring and understanding trust calibrations for automated systems: a survey of the state-of-the-art and future directions." In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, pp. 1-16. 2023. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3544548.3581197)
 
 
-## 4. Human Adaptive Behavior to AI
+## 5. Human Adaptive Behavior to AI
 
-### 4.1 Human Collaborating with Diverse AI Roles
+### 5.1 Human Collaborating with Diverse AI Roles
 
-#### 4.1.1 Assistants
+#### 5.1.1 Assistants
 
 1. (2022 CHI) Wu, Tongshuang, Michael Terry, and Carrie Jun Cai. "Ai chains: Transparent and controllable human-ai interaction by chaining large language model prompts." In Proceedings of the 2022 CHI conference on human factors in computing systems, pp. 1-22. 2022. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3491102.3517582)
 
@@ -384,7 +390,7 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 
 
-#### 4.1.2 Partners
+#### 5.1.2 Partners
 
 1. (2023 UIST) Park, Joon Sung, Joseph O'Brien, Carrie Jun Cai, Meredith Ringel Morris, Percy Liang, and Michael S. Bernstein. "Generative agents: Interactive simulacra of human behavior." In Proceedings of the 36th annual acm symposium on user interface software and technology, pp. 1-22. 2023. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3586183.3606763)
 
@@ -401,7 +407,7 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 5. Yildirim, Nur, Alex Kass, Teresa Tung, Connor Upton, Donnacha Costello, Robert Giusti, Sinem Lacin et al. "How experienced designers of enterprise applications engage AI as a design material." In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems, pp. 1-13. 2022. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3491102.3517491)
 
 
-#### 4.1.3 Tutors
+#### 5.1.3 Tutors
 
 1. (2024 AIED) **How to Teach Programming in the AI Era? Using LLMs as a Teachable Agent for Debugging.** *Ma, Qianou, Hua Shen, Kenneth Koedinger, and Sherry Tongshuang Wu.* [[pdf]](https://www.cs.cmu.edu/~sherryw/assets/pubs/2024-hypocompass.pdf)
 
@@ -410,9 +416,9 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 
 
-### 4.2 AI Impacts on Human and Society
+### 5.2 AI Impacts on Human and Society
 
-#### 4.2.1 Impact on Individual Behavior
+#### 5.2.1 Impact on Individual Behavior
 
 1. Shen, Hua, and Ting-Hao Huang. "How useful are the machine-generated interpretations to general users? a human evaluation on guessing the incorrectly predicted labels." In Proceedings of the AAAI Conference on Human Computation and Crowdsourcing, vol. 8, pp. 168-172. 2020. [[pdf]](https://ojs.aaai.org/index.php/HCOMP/article/view/7477/7256)
 
@@ -429,7 +435,7 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 
 
-#### 4.2.2 Societal Concerns and AI Impacts
+#### 5.2.2 Societal Concerns and AI Impacts
 
 1. Atreja, Shubham, Libby Hemphill, and Paul Resnick. "Remove, reduce, inform: what actions do people want Social Media platforms to take on potentially misleading content?." Proceedings of the ACM on Human-Computer Interaction 7, no. CSCW2 (2023): 1-33. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3610082?casa_token=kcoT4SDky3QAAAAA:ChztFk1kxFBgnAciq1oJLi-Te9OTZnlKZFMnMfto6R3-rcIZj3AR3apM9sssMmHQbn7EbQ3yx8gO)
 
@@ -442,7 +448,7 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 
 
-#### 4.2.3 Reaction to AI Advancements
+#### 5.2.3 Reaction to AI Advancements
 
 1. Hacker, Philipp, Andreas Engel, and Marco Mauer. "Regulating ChatGPT and other large generative AI models." In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency, pp. 1112-1123. 2023. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3593013.3594067)
 
@@ -456,9 +462,9 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 4. Madaio, Michael A., Luke Stark, Jennifer Wortman Vaughan, and Hanna Wallach. "Co-designing checklists to understand organizational challenges and opportunities around fairness in AI." In Proceedings of the 2020 CHI conference on human factors in computing systems, pp. 1-14. 2020. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3313831.3376445)
 
 
-### 4.3 Evaluation in Human Studies
+### 5.3 Evaluation in Human Studies
 
-#### 4.3.1 Evaluate Human-AI Collaboration
+#### 5.3.1 Evaluate Human-AI Collaboration
 
 
 1. Mozannar, Hussein, Valerie Chen, Mohammed Alsobay, Subhro Das, Sebastian Zhao, Dennis Wei, Manish Nagireddy, Prasanna Sattigeri, Ameet Talwalkar, and David Sontag. "The RealHumanEval: Evaluating Large Language Models' Abilities to Support Programmers." arXiv preprint arXiv:2404.02806 (2024). [[pdf]](https://arxiv.org/pdf/2404.02806)
@@ -478,7 +484,7 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 
 
-#### 4.3.2 Evaluate Societal Impact
+#### 5.3.2 Evaluate Societal Impact
 
 
 1. Santurkar, Shibani, Esin Durmus, Faisal Ladhak, Cinoo Lee, Percy Liang, and Tatsunori Hashimoto. "Whose opinions do language models reflect?." In International Conference on Machine Learning, pp. 29971-30004. PMLR, 2023. [[pdf]](https://proceedings.mlr.press/v202/santurkar23a/santurkar23a.pdf)
