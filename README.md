@@ -57,14 +57,13 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
   - [5.3 Evaluation in Human Studies](#53-evaluation-in-human-studies)
     - [5.3.1 Evaluate Human-AI Collaboration](#531-evaluate-human-ai-collaboration)
     - [5.3.2 Evaluate Societal Impact](#532-evaluate-societal-impact)
-- [6. Others](#6-others)
 
 
 ## 1. Alignment Basics
 
 ### 1.1 Overview Papers
 
-The papers are organized in chronological order.
+The overview papers are organized in chronological order.
 
 1. **Open problems and fundamental limitations of reinforcement learning from human feedback.** *Casper, Stephen, Xander Davies, Claudia Shi, Thomas Krendl Gilbert, Jérémy Scheurer, Javier Rando, Rachel Freedman et al.*, Sep 2023. [[pdf]](https://arxiv.org/pdf/2307.15217)
 
@@ -96,6 +95,8 @@ The papers are organized in chronological order.
 4. (Moral Foundation Theory) **Moral foundations theory: The pragmatic validity of moral pluralism.** *Graham, Jesse, Jonathan Haidt, Sena Koleva, Matt Motyl, Ravi Iyer, Sean P. Wojcik, and Peter H. Ditto.*, 2013. [[pdf]](https://www.sciencedirect.com/science/article/pii/B9780124072367000024)
 
 
+
+<img src="assets/overview.pdf" width="400">
 
 
 ## 2. Human Values and Specifications
