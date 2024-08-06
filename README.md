@@ -6,7 +6,7 @@ The overview figure provided below includes a clarified definition based on a sy
 
 
 <p align="center">
-  <img src="overview.png" width="450">
+  <img src="overview.png" width="500">
 </p>
 
 
