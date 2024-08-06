@@ -62,7 +62,9 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 ## 1. Alignment Basics
 
-### 1.1 Overview Papers (Chronological)
+### 1.1 Overview Papers
+
+The papers are organized in chronological order.
 
 1. **Open problems and fundamental limitations of reinforcement learning from human feedback.** *Casper, Stephen, Xander Davies, Claudia Shi, Thomas Krendl Gilbert, Jérémy Scheurer, Javier Rando, Rachel Freedman et al.*, Sep 2023. [[pdf]](https://arxiv.org/pdf/2307.15217)
 
@@ -149,10 +151,10 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 **Self-Enhancement:**
 
-<!-- 1. (2024 CHI) **Rehearsal: Simulating conflict to teach conflict resolution.** *Shaikh, Omar, Valentino Emil Chai, Michele Gelfand, Diyi Yang, and Michael S. Bernstein.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3613904.3642159)
+1. (2023 CSCW) **Deliberating with AI: improving decision-making for the future through participatory AI design and stakeholder deliberation.** *Zhang, Angie, Olympia Walker, Kaci Nguyen, Jiajun Dai, Anqing Chen, and Min Kyung Lee.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3579601)
 
 
-2. (2024 AIED) **How to Teach Programming in the AI Era? Using LLMs as a Teachable Agent for Debugging.** *Ma, Qianou, Hua Shen, Kenneth Koedinger, and Sherry Tongshuang Wu.* [[pdf]](https://www.cs.cmu.edu/~sherryw/assets/pubs/2024-hypocompass.pdf) -->
+2. (2023 CHI) **“Should I Follow the Human, or Follow the Robot?”—Robots in Power Can Have More Influence Than Humans on Decision-Making.** *Hou, Yoyo Tsung-Yu, Wen-Ying Lee, and Malte Jung.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3544548.3581066)
 
 
 **Self-Transcendence:**
@@ -161,6 +163,7 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 
 2. (2022 Arxiv) **Training a helpful and harmless assistant with reinforcement learning from human feedback.** *Bai, Yuntao, Andy Jones, Kamal Ndousse, Amanda Askell, Anna Chen, Nova DasSarma, Dawn Drain et al.* [[pdf]](https://arxiv.org/pdf/2204.05862?spm=a2c6h.13046898.publish-article.36.6cd56ffaIPu4NQ&file=2204.05862)
+
 
 **Conservation:**
 
@@ -410,25 +413,21 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 1. (2020 HCOMP) **How useful are the machine-generated interpretations to general users? a human evaluation on guessing the incorrectly predicted labels.** *Shen, Hua, and Ting-Hao Huang.* [[pdf]](https://ojs.aaai.org/index.php/HCOMP/article/view/7477/7256)
 
 
-2. () **How AI Ideas Affect the Creativity, Diversity, and Evolution of Human Ideas: Evidence From a Large, Dynamic Experiment.** *Ashkinaze, Joshua, Julia Mendelsohn, Li Qiwei, Ceren Budak, and Eric Gilbert.* [[pdf]](https://arxiv.org/pdf/2401.13481)
+2. (2024 Arxiv) **How AI Ideas Affect the Creativity, Diversity, and Evolution of Human Ideas: Evidence From a Large, Dynamic Experiment.** *Ashkinaze, Joshua, Julia Mendelsohn, Li Qiwei, Ceren Budak, and Eric Gilbert.* [[pdf]](https://arxiv.org/pdf/2401.13481)
 
 
 
 3. (2022 IUI) **Do people engage cognitively with AI? Impact of AI assistance on incidental learning.** *Gajos, Krzysztof Z., and Lena Mamykina.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3490099.3511138)
 
 
-<!-- 3. Li, Tianshi, Sauvik Das, Hao-Ping Lee, Dakuo Wang, Bingsheng Yao, and Zhiping Zhang. "Human-Centered Privacy Research in the Age of Large Language Models." In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems, pp. 1-4. 2024. [[pdf]]() -->
-
-
-
 
 #### 5.2.2 Societal Concerns and AI Impacts
 
-1. (2023 CSCW) *Atreja, Shubham, Libby Hemphill, and Paul Resnick.* **Remove, reduce, inform: what actions do people want Social Media platforms to take on potentially misleading content?.** Proceedings of the ACM on Human-Computer Interaction 7, no. CSCW2 (2023): 1-33. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3610082?casa_token=kcoT4SDky3QAAAAA:ChztFk1kxFBgnAciq1oJLi-Te9OTZnlKZFMnMfto6R3-rcIZj3AR3apM9sssMmHQbn7EbQ3yx8gO)
+1. (2023 CSCW) **Remove, reduce, inform: what actions do people want Social Media platforms to take on potentially misleading content?.** *Atreja, Shubham, Libby Hemphill, and Paul Resnick.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3610082?casa_token=kcoT4SDky3QAAAAA:ChztFk1kxFBgnAciq1oJLi-Te9OTZnlKZFMnMfto6R3-rcIZj3AR3apM9sssMmHQbn7EbQ3yx8gO)
 
 2. (2023 ICLR) **Towards interpretable deep reinforcement learning with human-friendly prototypes.** *Kenny, Eoin M., Mycal Tucker, and Julie Shah.* [[pdf]](https://openreview.net/pdf?id=hWwY_Jq0xsN)
 
-3. **Human vs. AI: Understanding the impact of anthropomorphism on consumer response to chatbots from the perspective of trust and relationship norms.** *Cheng, Xusen, Xiaoping Zhang, Jason Cohen, and Jian Mou.* [[pdf]](https://www.sciencedirect.com/science/article/pii/S0306457322000620?casa_token=R_GDKLpW1KwAAAAA:vjF-C8qKfA5EyeWowZ9N43EA1XEpQlFryMQ_3bpTuvuWIJrQx8F-fBuepIgQxYhGgWgntfvQ)
+3. (2022 Information Processing & Management) **Human vs. AI: Understanding the impact of anthropomorphism on consumer response to chatbots from the perspective of trust and relationship norms.** *Cheng, Xusen, Xiaoping Zhang, Jason Cohen, and Jian Mou.* [[pdf]](https://www.sciencedirect.com/science/article/pii/S0306457322000620?casa_token=R_GDKLpW1KwAAAAA:vjF-C8qKfA5EyeWowZ9N43EA1XEpQlFryMQ_3bpTuvuWIJrQx8F-fBuepIgQxYhGgWgntfvQ)
 
 
 4. (2021 CHI) **Human-AI interaction in human resource management: Understanding why employees resist algorithmic evaluation at workplaces and how to mitigate burdens.** *Park, Hyanghee, Daehwan Ahn, Kartik Hosanagar, and Joonhwan Lee.*  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3411764.3445304?casa_token=UGBhg1Z31nkAAAAA:AotPhsLc-w4LiubqgV5owW-TFs5S6w7oAQJaS5svJyVwlz9Kc8uAQpFMIo5tvWsQ6_qBqK7JEJpm)
@@ -437,26 +436,25 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
 
 #### 5.2.3 Reaction to AI Advancements
 
-1. Hacker, Philipp, Andreas Engel, and Marco Mauer. "Regulating ChatGPT and other large generative AI models." In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency, pp. 1112-1123. 2023. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3593013.3594067)
+1. (2023 FAccT) **Regulating ChatGPT and other large generative AI models.** *Hacker, Philipp, Andreas Engel, and Marco Mauer.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3593013.3594067)
 
 
-2. **Who Should Pay When Machines Cause Harm? Laypeople’s Expectations of Legal Damages for Machine-Caused Harm.** *Lima, Gabriel, Nina Grgic-Hlaca, Jin Keun Jeong, and Meeyoung Cha.*  In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency, pp. 236-246. 2023. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3593013.3593992)
+2. (2023 FAccT) **Who Should Pay When Machines Cause Harm? Laypeople’s Expectations of Legal Damages for Machine-Caused Harm.** *Lima, Gabriel, Nina Grgic-Hlaca, Jin Keun Jeong, and Meeyoung Cha.*  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3593013.3593992)
 
 
-3. (2021 CHI) **Human-AI interaction in human resource management: Understanding why employees resist algorithmic evaluation at workplaces and how to mitigate burdens.** *Park, Hyanghee, Daehwan Ahn, Kartik Hosanagar, and Joonhwan Lee.*  [pdf]](https://dl.acm.org/doi/pdf/10.1145/3411764.3445304?casa_token=sg-aQUgoRBsAAAAA:tk6rNjv_8qude-IhhZrieLhmBHBig64imKvpGgZq_tMpZq_l9mXNhgTOmpGdRKWiCuRMbzzmVtly)
+3. (2021 CHI) **Human-AI interaction in human resource management: Understanding why employees resist algorithmic evaluation at workplaces and how to mitigate burdens.** *Park, Hyanghee, Daehwan Ahn, Kartik Hosanagar, and Joonhwan Lee.*  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3411764.3445304?casa_token=sg-aQUgoRBsAAAAA:tk6rNjv_8qude-IhhZrieLhmBHBig64imKvpGgZq_tMpZq_l9mXNhgTOmpGdRKWiCuRMbzzmVtly)
 
 
-4. *Madaio, Michael A., Luke Stark, Jennifer Wortman Vaughan, and Hanna Wallach.* **Co-designing checklists to understand organizational challenges and opportunities around fairness in AI.** In Proceedings of the 2020 CHI conference on human factors in computing systems, pp. 1-14. 2020. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3313831.3376445)
+4. (2020 CHI) **Co-designing checklists to understand organizational challenges and opportunities around fairness in AI.** *Madaio, Michael A., Luke Stark, Jennifer Wortman Vaughan, and Hanna Wallach.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3313831.3376445)
 
 
 ### 5.3 Evaluation in Human Studies
 
 #### 5.3.1 Evaluate Human-AI Collaboration
 
-
 1. (2024 Arxiv) **The RealHumanEval: Evaluating Large Language Models' Abilities to Support Programmers.** *Mozannar, Hussein, Valerie Chen, Mohammed Alsobay, Subhro Das, Sebastian Zhao, Dennis Wei, Manish Nagireddy, Prasanna Sattigeri, Ameet Talwalkar, and David Sontag.* [[pdf]](https://arxiv.org/pdf/2404.02806)
 
-2. **Harnessing the power of LLMs: Evaluating human-AI text co-creation through the lens of news headline generation.** *Ding, Zijian, Alison Smith-Renner, Wenjuan Zhang, Joel R. Tetreault, and Alejandro Jaimes. [[pdf]](https://arxiv.org/pdf/2310.10706)
+2. (2023 EMNLP) **Harnessing the power of LLMs: Evaluating human-AI text co-creation through the lens of news headline generation.** *Ding, Zijian, Alison Smith-Renner, Wenjuan Zhang, Joel R. Tetreault, and Alejandro Jaimes.* [[pdf]](https://arxiv.org/pdf/2310.10706)
 
 
 3. (2023 CCS) **Do users write more insecure code with AI assistants?** *Neil Perry, Megha Srivastava, Deepak Kumar, and Dan Boneh.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3576915.3623157?casa_token=DOFKsd6BLDcAAAAA:nz3SyrTaFV3igBRRz-ftObi_gQT-VrARkwzTSCLtyuPzOA6U6UHm699v2fGuLLh-fsLCZcofnPvf)
