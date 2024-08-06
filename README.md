@@ -15,7 +15,7 @@ The overview figure provided below includes a clarified definition based on a sy
 
 **Definition.**
 ***Bidirectional Human-AI Alignment** is a comprehensive framework that encompasses two interconnected alignment
-processes: **'Aligning <span style="color:#1271CA">AI</span> to <span style="color:#DE4A4D">Humans</span>'** and **'Aligning <span style="color:#DE4A4D">Humans</span> to <span style="color:#1271CA">AI</span>'**. The former focuses on integrating human specifications
+processes: **(A) Aligning <span style="color:#1271CA">AI</span> to <span style="color:#DE4A4D">Humans</span>** and **(B) Aligning <span style="color:#DE4A4D">Humans</span> to <span style="color:#1271CA">AI</span>**. The former focuses on integrating human specifications
 to train, steer, and customize AI, while the latter investigates human cognitive and behavioral adaptations to AI, which
 supports humans in understanding, critiquing, collaborating with, and adapting to AI advancements.*
 </div>
