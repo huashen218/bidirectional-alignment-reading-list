@@ -6,7 +6,7 @@ The overview figure provided below includes a clarified definition based on a sy
 
 
 <p align="center">
-  <img src="overview.png" width="400">
+  <img src="overview.png" width="450">
 </p>
 
 
@@ -72,7 +72,6 @@ supports humans in understanding, critiquing, collaborating with, and adapting t
   - [5.3 Evaluation in Human Studies](#53-evaluation-in-human-studies)
     - [5.3.1 Evaluate Human-AI Collaboration](#531-evaluate-human-ai-collaboration)
     - [5.3.2 Evaluate Societal Impact](#532-evaluate-societal-impact)
-
 - [People and Community](#people-and-community)
 - [Contributions](#contributions)
 - [How to Cite the Repo](#how-to-cite-the-repo)
