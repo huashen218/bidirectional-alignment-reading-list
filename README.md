@@ -7,7 +7,7 @@ blue { color: #1271CA }
 grey {color: #F7F7F7 }
 </style>
 
-This repository supports the paper titled "[Towards Bidirectional Human-AI Alignment: A Systematic Review for Clarifications, Framework, and Future Directions](https://arxiv.org/pdf/2406.09264)". In this paper, we proposed the "**[Bidirectional <red>Human</red>-<blue>AI</blue> <yellow>Alignment</yellow>](https://arxiv.org/pdf/2406.09264)**" framework. The overview figure provided below includes a clarified definition based on a systematic review of over 400 papers spanning the domains of Human-Computer Interaction (HCI), Natural Language Processing (NLP), and Machine Learng (ML), and more.
+This repository supports the paper titled "[Towards Bidirectional Human-AI Alignment: A Systematic Review for Clarifications, Framework, and Future Directions](https://arxiv.org/pdf/2406.09264)". In this paper, we proposed the "**[Bidirectional <span style="color:#DE4A4D">Human</span>-<span style="color:#1271CA">AI</span> <span style="color:#F9AB10">Alignment</span>](https://arxiv.org/pdf/2406.09264)**" framework. The overview figure provided below includes a clarified definition based on a systematic review of over 400 papers spanning the domains of Human-Computer Interaction (HCI), Natural Language Processing (NLP), and Machine Learng (ML), and more.
 
 
 <!-- Reference: https://github.com/zhijing-jin/Causality4NLP_Papers -->
@@ -27,7 +27,7 @@ to train, steer, and customize AI, while the latter investigates human cognitive
 supports humans in understanding, critiquing, collaborating with, and adapting to AI advancements.*
 </div>
 
-**Contributor:** [Hua Shen](https://hua-shen.org/). Please see a full list of authorship and community at [Link]().
+**Contributor:** [Hua Shen](https://hua-shen.org/). Please see the [Paper](https://arxiv.org/abs/2406.09264) and a full list of people at [Link](#people-and-community).
 
 
 
@@ -78,6 +78,8 @@ supports humans in understanding, critiquing, collaborating with, and adapting t
   - [5.3 Evaluation in Human Studies](#53-evaluation-in-human-studies)
     - [5.3.1 Evaluate Human-AI Collaboration](#531-evaluate-human-ai-collaboration)
     - [5.3.2 Evaluate Societal Impact](#532-evaluate-societal-impact)
+
+- [People and Community](#people-and-community)
 - [Contributions](#contributions)
 - [How to Cite the Repo](#how-to-cite-the-repo)
 
@@ -502,7 +504,7 @@ The overview papers are organized in chronological order.
 2. (2024 PNAS) **Generative artificial intelligence, human creativity, and art.** *Zhou, Eric, and Dokyun Lee.* [[pdf]](https://watermark.silverchair.com/pgae052.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA18wggNbBgkqhkiG9w0BBwagggNMMIIDSAIBADCCA0EGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMmh4z8Te_EeV3HkiMAgEQgIIDEmvEvC_tvnFV5oo8_ZvmgKDMTfc9gZClw4LT9wc2z4D1OgsqBoHawPCLpd700Ph9REZ4pJsHflb-7flavdxU7OxBwKIP8GbCkGW6JKSG43AAXdPe-ZwOmrMwKwGLx4fiaaS7v4hZZOs69ELMNXX0imoF2ejV-OUg1tmjLsba463Wnf9SZPkO7sKzTLpx6sVSaRU4p_gjtkHqotwFkF2SV15W2da84W9-oWSmXWSpqMC6TGAzmlZ6sqcs4FXha2kW_GjHv3iTwEiHy_asJ0Pd1fp06qZBoIzt_wLoex_7XY5Fh1qfv8tC1lyWWjVx6rd8GhcL2lAjXkTx7LP1zvIWueI3Mjuv_suuA2D9mfQjvZ0FHiV_R7RG0JS_vHuZ93kG73Hq-zjdDpf-396YbxvtOxwR5pWH5JQWli8LXEFBYLLvZ5XwZTxQYFz3Sb9soNfLC2r6QzG68CGzVvy7gMeqN_OegL3_89rU-CVyexOX4nhE8fx_QMUom_3d0asSTpibGWj1GjQCaxInTRMzrbOflObXqbco6hBb9-fRXDyzGy8Tjy_Uh1Ruz6d9qB66SEnu0THYCwgXNz5U8VsXS4rfBOBwEjcdxhjYDca42Ikq9VJvzDk43EyVutSWh8ucHnUUZr4OO01hlnC50E2BOmqwQFb9C9r2GNORVg2K24zLsVmImRq4syuDnlBA5GsQeI65KLGIUnQ18pOgMyZdmK29MEByr9g2N8TpztLCREDq4Bbv8PRXZS9SKVRD9K9iRY1N5CheW-WRXAcJVgQueoBMK1ysstJlSZjEi5AuozeroOBGud5wRIB8y2iy92i_RPekF3GmgSsU_t1M2DcAHEXLSY0GPBGAJJvziPw-v2qmrLoeKNRgTkat5uuB8jDB8xa_zIv4LcjzwKVLduNJph2f9Y04SBJ0VHWnuVCa4odRtNhvYoIys4uodYAbASVHuqXxakTufNcv4LALjKiGFjFjqKFbJJKkOQLIOdW2E3MvOebmjVM1QJilx_1dUXCuB4pQHqNYNZtMYC3RHkpkLWbb9bkZmQ)
 
 
-## Other Authors and Our Community
+## People and Community
 
 
 - **Tiffany Knearem** (Google) [[link]](https://research.google/people/tiffany-knearem/?&type=google)
@@ -528,8 +530,7 @@ The overview papers are organized in chronological order.
 - **Meredith Ringel Morris** (Google DeepMind) [[link]](https://cs.stanford.edu/~merrie/)
 - **Paul Resnick** (UMich) [[link]](https://presnick.people.si.umich.edu/)
 - **David Jurgens** (UMich) [[link]](https://jurgens.people.si.umich.edu/)
-- We welcome more people who are interested in and want to contribute to bidirectional human-AI alignment joining our community! 
-
+- Our community is growing, and we invite more people interested in contributing to bidirectional human-AI alignment to join!
 
 
 
