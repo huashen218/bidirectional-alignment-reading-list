@@ -1,8 +1,8 @@
 # Bidirectional Human-AI Alignment - Reading List
 
-This repository supports the paper titled "[Towards Bidirectional Human-AI Alignment: A Systematic Review for Clarifications, Framework, and Future Directions](https://arxiv.org/pdf/2406.09264)". In this paper, we proposed the "**[Bidirectional <span style="color:#DE4A4D">Human</span>-<span style="color:#1271CA">AI</span> <span style="color:#F9AB10">Alignment</span>](https://arxiv.org/pdf/2406.09264)**" framework. 
+This repository supports the paper titled "[Towards Bidirectional Human-AI Alignment: A Systematic Review for Clarifications, Framework, and Future Directions](https://arxiv.org/pdf/2406.09264)". 
 
-The overview figure provided below includes a clarified definition based on a systematic review of over 400 papers spanning the domains of Human-Computer Interaction (HCI), Natural Language Processing (NLP), and Machine Learng (ML), and more.
+In this paper, we proposed the "**[Bidirectional <span style="color:#DE4A4D">Human</span>-<span style="color:#1271CA">AI</span> <span style="color:#F9AB10">Alignment</span>](https://arxiv.org/pdf/2406.09264)**" framework. The overview figure of framework provided below includes a clarified definition based on a systematic review of over 400 papers spanning the domains of Human-Computer Interaction (HCI), Natural Language Processing (NLP), and Machine Learng (ML), and more.
 
 
 <p align="center">
