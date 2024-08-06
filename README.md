@@ -523,9 +523,7 @@ The overview papers are organized in chronological order.
 - **Meredith Ringel Morris** (Google DeepMind) [[link]](https://cs.stanford.edu/~merrie/)
 - **Paul Resnick** (*UMich*) [[link]](https://presnick.people.si.umich.edu/)
 - **David Jurgens** (*UMich*) [[link]](https://jurgens.people.si.umich.edu/)
-- Our community is growing, and we invite more people interested in contributing to bidirectional human-AI alignment to join!
-
-
+- We welcome more people who are interested in contributing to bidirectional human-AI alignment to join our community!
 
 ## Contributions
 
