@@ -6,8 +6,23 @@ This repository lists papers on **[Bidirectional Human-AI Alignment](https://arx
 <!-- Reference: https://github.com/zhijing-jin/Causality4NLP_Papers -->
 
 
+
+<p align="center">
+  <img src="overview.png" width="400">
+</p>
+
+<div style="background-color:#F7F7F7; color:black">
+
+**Definition.**
+***Bidirectional Human-AI Alignment** is a comprehensive framework that encompasses two interconnected alignment
+processes: 'Aligning <span style="color:#1271CA">AI</span> to <span style="color:#DE4A4D">Humans</span>' and 'Aligning <span style="color:#DE4A4D">Humans</span> to <span style="color:#1271CA">AI</span>'. The former focuses on integrating human specifications
+to train, steer, and customize AI, while the latter investigates human cognitive and behavioral adaptations to AI, which
+supports humans in understanding, critiquing, collaborating with, and adapting to AI advancements.*
+</div>
+
 **Contributor:** [Hua Shen](https://hua-shen.org/).
 Welcome to be a collaborator, -- you can make an issue/pull request, and I can add you.
+
 
 
 ### Contents (Actively Updating)
@@ -95,9 +110,7 @@ The overview papers are organized in chronological order.
 4. (Moral Foundation Theory) **Moral foundations theory: The pragmatic validity of moral pluralism.** *Graham, Jesse, Jonathan Haidt, Sena Koleva, Matt Motyl, Ravi Iyer, Sean P. Wojcik, and Peter H. Ditto.*, 2013. [[pdf]](https://www.sciencedirect.com/science/article/pii/B9780124072367000024)
 
 
-
-<img src="assets/overview.pdf" width="400">
-
+<!-- <img title="a title" alt="Alt text" src="/images/boo.svg"> -->
 
 ## 2. Human Values and Specifications
 
