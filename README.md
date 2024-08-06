@@ -502,12 +502,40 @@ The overview papers are organized in chronological order.
 2. (2024 PNAS) **Generative artificial intelligence, human creativity, and art.** *Zhou, Eric, and Dokyun Lee.* [[pdf]](https://watermark.silverchair.com/pgae052.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA18wggNbBgkqhkiG9w0BBwagggNMMIIDSAIBADCCA0EGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMmh4z8Te_EeV3HkiMAgEQgIIDEmvEvC_tvnFV5oo8_ZvmgKDMTfc9gZClw4LT9wc2z4D1OgsqBoHawPCLpd700Ph9REZ4pJsHflb-7flavdxU7OxBwKIP8GbCkGW6JKSG43AAXdPe-ZwOmrMwKwGLx4fiaaS7v4hZZOs69ELMNXX0imoF2ejV-OUg1tmjLsba463Wnf9SZPkO7sKzTLpx6sVSaRU4p_gjtkHqotwFkF2SV15W2da84W9-oWSmXWSpqMC6TGAzmlZ6sqcs4FXha2kW_GjHv3iTwEiHy_asJ0Pd1fp06qZBoIzt_wLoex_7XY5Fh1qfv8tC1lyWWjVx6rd8GhcL2lAjXkTx7LP1zvIWueI3Mjuv_suuA2D9mfQjvZ0FHiV_R7RG0JS_vHuZ93kG73Hq-zjdDpf-396YbxvtOxwR5pWH5JQWli8LXEFBYLLvZ5XwZTxQYFz3Sb9soNfLC2r6QzG68CGzVvy7gMeqN_OegL3_89rU-CVyexOX4nhE8fx_QMUom_3d0asSTpibGWj1GjQCaxInTRMzrbOflObXqbco6hBb9-fRXDyzGy8Tjy_Uh1Ruz6d9qB66SEnu0THYCwgXNz5U8VsXS4rfBOBwEjcdxhjYDca42Ikq9VJvzDk43EyVutSWh8ucHnUUZr4OO01hlnC50E2BOmqwQFb9C9r2GNORVg2K24zLsVmImRq4syuDnlBA5GsQeI65KLGIUnQ18pOgMyZdmK29MEByr9g2N8TpztLCREDq4Bbv8PRXZS9SKVRD9K9iRY1N5CheW-WRXAcJVgQueoBMK1ysstJlSZjEi5AuozeroOBGud5wRIB8y2iy92i_RPekF3GmgSsU_t1M2DcAHEXLSY0GPBGAJJvziPw-v2qmrLoeKNRgTkat5uuB8jDB8xa_zIv4LcjzwKVLduNJph2f9Y04SBJ0VHWnuVCa4odRtNhvYoIys4uodYAbASVHuqXxakTufNcv4LALjKiGFjFjqKFbJJKkOQLIOdW2E3MvOebmjVM1QJilx_1dUXCuB4pQHqNYNZtMYC3RHkpkLWbb9bkZmQ)
 
 
+## Other Authors and Our Community
+
+
+- **Tiffany Knearem** (Google) [[link]](https://research.google/people/tiffany-knearem/?&type=google)
+- **Reshmi Ghosh** (Microsoft) [[link]](https://www.microsoft.com/en-us/research/people/reshmighosh/)
+- **Kenan Alkiek** (UMich) [[link]](https://www.si.umich.edu/people/kenan-alkiek)
+- **Kundan Krishna** (CMU) [[link]](https://kkrishna.in/)
+- **Yachuan Liu** (UMich) [[link]](https://www.si.umich.edu/people/yachuan-liu)
+- **Ziqiao (Martin) Ma** (UMich) [[link]](https://mars-tin.github.io/)
+- **Savvas Petridis** (Google DeepMind) [[link]](https://savvaspetridis.github.io/)
+- **Yi-Hao Peng** (CMU) [[link]](https://www.yihaopeng.tw/)
+- **Li Qiwei** (UMich) [[link]](https://www.si.umich.edu/people/qiwei-li)
+- **Sushrita Rakshit** (UMich) [[link]](https://www.linkedin.com/in/sushrita-rakshit-036611227/)
+- **Chenglei Si** (Stanford) [[link]](https://noviscl.github.io/)
+- **Yutong Xie** (UMich) [[link]](https://yutxie.com/)
+- **Jeffrey P. Bigham** (CMU) [[link]](https://www.cs.cmu.edu/~jbigham/)
+- **Frank Bentley** (Google) [[link]](https://frankbentley.com/)
+- **Joyce Chai** (UMich) [[link]](https://web.eecs.umich.edu/~chaijy/)
+- **Zachary Lipton** (CMU) [[link]](https://www.zacharylipton.com/)
+- **Qiaozhu Mei** (UMich) [[link]](https://websites.umich.edu/~qmei/)
+- **Rada Mihalcea** (UMich) [[link]](https://en.wikipedia.org/wiki/Rada_Mihalcea)
+- **Michael Terry** (Google DeepMind) [[link]](https://research.google/people/michael-terry/?&type=google)
+- **Diyi Yang** (Stanford) [[link]](https://cs.stanford.edu/~diyiy/)
+- **Meredith Ringel Morris** (Google DeepMind) [[link]](https://cs.stanford.edu/~merrie/)
+- **Paul Resnick** (UMich) [[link]](https://presnick.people.si.umich.edu/)
+- **David Jurgens** (UMich) [[link]](https://jurgens.people.si.umich.edu/)
+- We welcome more people who are interested in and want to contribute to bidirectional human-AI alignment joining our community! 
+
+
 
 
 ## Contributions
 
-
-
+There are many more papers on Bidirectional Human-AI Alignment beyond the ones listed above. Due to limitations, we cannot cover all relevant papers. If you know of any highly relevant papers that should be included, please contact [Hua Shen](https://hua-shen.org/). Contributions to both Bidirectional Alignment and this reading list are welcome. Thank you!
 
 
 ## How to Cite the Repo
@@ -524,59 +552,6 @@ If you find the repository helpful to your research and would like to cite it, p
 ```
 
 
-
-
-
-
-<!-- 
-- [1. Causality Basics](#1-causality-basics)
-  - [1.1 Talks/Tutorial/etc](#11-Talkstutorialetc)
-  - [1.2 Overview Papers](#12-overview-papers)
-  - [1.3 Toolboxes](#13-toolboxes)
-   -->
-
-
-<!-- 
-- [1. Causality Basics](#1-causality-basics)
-  - [1.1 Talks/Tutorial/etc](#11-Talkstutorialetc)
-  - [1.2 Overview Papers](#12-overview-papers)
-  - [1.3 Toolboxes](#13-toolboxes)
-- [2. Causality Applied to General NLP](#2-causality-applied-to-general-nlp)
-  - [2.1 Causality to Bring Insights to NLP Modeling (for Robustness, Domain Adaptation, etc)](#21-causality-to-bring-insights-to-nlp-modeling-for-robustness-domain-adaptation-etc)
-  - [2.2 Language Model Analysis in a Causal Way (for Probing, Interpretability, etc.)](#22-language-model-analysis-in-a-causal-way-for-probing-interpretability-etc)
-  - [2.3 Text Features in Causal Graphs (for Social Science, Psychology, etc.)](#23-text-features-in-causal-graphs-for-social-science-psychology-etc)
-  - [2.4 Causal Relation Extraction](#24-causal-relation-extraction)
-  - [2.5 Causal Commonsense Reasoning and Generation](#25-causal-commonsense-reasoning-and-generation)
-- [3. Causality for Various Applications](#3-causality-for-various-applications)
-  - [3.1 Persuasion](#31-persuation)
-  - [3.2 Psychology and Behavior](#32-psychology-and-behavior)
-  - [3.3 Economics](#33-economics)
-  - [3.4 Healthcare](#34-healthcare)
-  - [3.4 Judicial Decision](#35-judicial-decision)
-  - [3.5 Marketing strategies and sales prediction](#36-marketing-strategies-and-sales-prediction)
-- [4. More Resources](#4-more-resources)
-  - [4.1 Causality Papers from Schoelkopf's Lab, MPI](#41-causality-papers-from-schoelkopfs-lab-mpi)
-    - [4.1.0 Overview](#410-overview)
-    - [4.1.1 Learning Causal "Units" and Mechanisms (i.e., Causal Representation Learning)](#411-learning-causal-units-and-mechanisms-ie-causal-representation-learning)
-    - [4.1.2 Robustness and Invariance (incl. Semi-Supervised Learning, Covariate Shift, Transfer Learning)](#411-learning-causal-units-and-mechanisms-ie-causal-representation-learning)
-    - [4.1.3 Causal Discovery](#411-learning-causal-units-and-mechanisms-ie-causal-representation-learning)
-    - [4.1.4 Causal Effect Estimation](#414-causal-effect-estimation)
-    - [4.1.5 Foundational work (theory, ICA, etc.)](#415-foundational-work-theory-ica-etc)
-  - [4.2 Causality Papers from Bengio's Lab, MILA](#42-causality-papers-from-bengios-lab-mila)
-    - [Motivational Position Papers](#motivational-position-papers)
-    - [Applying Causality Knowledge for RL Interaction Design](#applying-causality-knowledge-for-rl-interaction-design)
-    - [Applying causality to model design](#applying-causality-to-model-design)
-    - [Causal induction from interventional data](#causal-induction-from-interventional-data)
-    - [Grounded AI](#grounded-AI)
-  - [4.3 Other Causality Papers (Potentially Applicable to NLP)](#43-other-causality-papers-potentially-applicable-to-nlp)
-  - [4.4 Books (for Systematic Learning)](#44-books-for-systematic-learning)
-  - [4.5 Online Courses](#45-online-courses)
-  - [4.6 People Directory](#46-people-directory)
-  - [4.7 Workshops](#47-workshops)
-  - [4.8 Others](#48-others)
-- [Contributions](#contributions)
-- [How to Cite This Repo](#How-to-Cite-This-Repo)
- -->
 
 
 
