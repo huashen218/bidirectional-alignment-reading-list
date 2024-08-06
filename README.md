@@ -1,17 +1,18 @@
 # Bidirectional Human-AI Alignment - Reading List
 
 
-This repository lists papers on **[Bidirectional Human-AI Alignment](https://arxiv.org/pdf/2406.09264)** [Paper](https://arxiv.org/pdf/2406.09264) research, primarily covering papers in Human-Computer Interaction (HCI), Natural Language Processing (NLP) and Machine Learng (ML) fields. 
+This repository supports the paper titled "[Towards Bidirectional Human-AI Alignment: A Systematic Review for Clarifications, Framework, and Future Directions](https://arxiv.org/pdf/2406.09264)". In this paper, we proposed the "**[Bidirectional <span style="color:#DE4A4D">Human</span>-<span style="color:#1271CA">AI</span> <span style="color:#F9AB10">Alignment</span>](https://arxiv.org/pdf/2406.09264)**" framework. The overview figure provided below includes a clarified definition based on a systematic review of over 400 papers spanning the domains of Human-Computer Interaction (HCI), Natural Language Processing (NLP), and Machine Learng (ML), and more.
+
 
 <!-- Reference: https://github.com/zhijing-jin/Causality4NLP_Papers -->
-
 
 
 <p align="center">
   <img src="overview.png" width="400">
 </p>
 
-<div style="background-color:#F7F7F7; color:black">
+
+<div style="background-color:#F7F7F7">
 
 **Definition.**
 ***Bidirectional Human-AI Alignment** is a comprehensive framework that encompasses two interconnected alignment
@@ -20,12 +21,11 @@ to train, steer, and customize AI, while the latter investigates human cognitive
 supports humans in understanding, critiquing, collaborating with, and adapting to AI advancements.*
 </div>
 
-**Contributor:** [Hua Shen](https://hua-shen.org/).
-Welcome to be a collaborator, -- you can make an issue/pull request, and I can add you.
+**Contributor:** [Hua Shen](https://hua-shen.org/). Please see a full list of authorship and community at [Link]().
 
 
 
-### Contents (Actively Updating)
+### Reading List of Bidirectional Alignment (Keep Updating)
 
 - [1. Alignment Basics](#1-alignment-basics)
   - [1.1 Overview Papers](#11-overview-papers)
@@ -72,6 +72,10 @@ Welcome to be a collaborator, -- you can make an issue/pull request, and I can a
   - [5.3 Evaluation in Human Studies](#53-evaluation-in-human-studies)
     - [5.3.1 Evaluate Human-AI Collaboration](#531-evaluate-human-ai-collaboration)
     - [5.3.2 Evaluate Societal Impact](#532-evaluate-societal-impact)
+- [Contributions](#contributions)
+- [How to Cite the Repo](#how-to-cite-the-repo)
+
+
 
 
 ## 1. Alignment Basics
@@ -494,28 +498,13 @@ The overview papers are organized in chronological order.
 
 
 
-
-
-
-<!-- ## 1. Causality Basics
-
-### 1.3 Toolboxes
-
-#### Causal Discovery
-
-1. (2021) **causal-learn (Python package for causal discovery).** _Carnegie Mellon University_. [[GitHub](https://github.com/cmu-phil/causal-learn)] [[documentation](https://causal-learn.readthedocs.io/en/latest/)] 
-3. (2019) **Causal Discovery Toolbox in Python.** [[GitHub](https://github.com/FenTechSolutions/CausalDiscoveryToolbox)] [[pdf](https://arxiv.org/pdf/1903.02278.pdf)] 
-4. **Causal discovery tools.** _University of Pittsburgh/Carnegie Mellon University Center for Causal Discovery_. [[link](https://www.ccd.pitt.edu/tools/)]
-   <br>e.g., Tretrad, [py-causal](https://bd2kccd.github.io/docs/py-causal/)  -->
+## Contributions
 
 
 
 
 
-
-
-
-## How to Cite This Repo
+## How to Cite the Repo
 
 If you find the repository helpful to your research and would like to cite it, please see the `bibtex` below:
 
